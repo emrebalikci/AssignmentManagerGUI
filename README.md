@@ -1,0 +1,2 @@
+# AssignmentManagerGUI
+AssignmentManager with GUI
